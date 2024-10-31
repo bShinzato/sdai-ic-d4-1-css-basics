@@ -11,11 +11,11 @@ If you forget to uncheck that box, you can still get access to the other branche
 
 ### Prepare Your Workspace
 
-1. [ ] First, stop any other Codespaces you have running to conserve core hours.
+1. [✅] First, stop any other Codespaces you have running to conserve core hours.
 
 ### Create and Link a CSS File
 
-2. [ ] Create a new CSS file named `styles.css` and link it to your HTML file by adding the following within the `<head>` element:
+2. [✅] Create a new CSS file named `styles.css` and link it to your HTML file by adding the following within the `<head>` element:
 
     ```html
     <link rel="stylesheet" href="styles.css">
@@ -34,7 +34,7 @@ If you forget to uncheck that box, you can still get access to the other branche
 
 ### Change Paragraph Text Color
 
-3. [ ] Change the color of all paragraph text to blue by adding the following CSS rule:
+3. [✅] Change the color of all paragraph text to blue by adding the following CSS rule:
 
     ```css
     p {
@@ -44,7 +44,7 @@ If you forget to uncheck that box, you can still get access to the other branche
 
 ### Set Background Color
 
-4. [ ] Set a background color for the entire page by adding the following CSS rule:
+4. [✅] Set a background color for the entire page by adding the following CSS rule:
 
     ```css
     body {
@@ -64,7 +64,7 @@ If you forget to uncheck that box, you can still get access to the other branche
 
 ### View Changes and Troubleshoot
 
-6. [ ] View the changes made to the webpage and troubleshoot any mistakes. Use GitHub Copilot for suggestions and corrections if needed.
+6. [✅] View the changes made to the webpage and troubleshoot any mistakes. Use GitHub Copilot for suggestions and corrections if needed.
 
 ## That's it for the demo!
 Now it's time to practice alongside your instructor as we all try coding in CSS together.
